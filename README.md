@@ -6,6 +6,4 @@ new editing on update-readme branch.
 
 locally updated.
 
-##local repository
-
-something added.
+this is jest readme file.
